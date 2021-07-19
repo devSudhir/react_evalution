@@ -1,0 +1,38 @@
+.Wrapper {
+  width: 60vw;
+  margin: auto;
+}
+.form1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form1 > * {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 7px;
+  border-radius: 7px;
+  border: 1px solid aqua;
+}
+.form1 > button {
+  width: 50%;
+  text-align: center;
+  color: #fff;
+  background-color: #333;
+}
+.form1 > button:hover {
+  color: #333;
+  background-color: tomato;
+}
+.section {
+  width: 70vw;
+  margin: auto;
+  border: 2px solid greenyellow;
+}
+
+.section button {
+  padding: 7px;
+  border-radius: 7px;
+  color: #fff;
+  background-color: #333;
+}

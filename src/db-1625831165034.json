@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Learn react"
+    },
+    {
+      "Hi": "Hello"
+    }
+  ],
+  "users": [],
+  "cart": [],
+  "groceries": []
+}
